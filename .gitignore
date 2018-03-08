@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 /bin/
+=======
+log.txt
+#.gitignore
+/dir2
+>>>>>>> branch 'master' of https://github.com/kaiwang99/test.git
